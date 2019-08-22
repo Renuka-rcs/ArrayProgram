@@ -1,1 +1,1 @@
- #ArrayProgram
+ #ArrayProgram searching algorithm
